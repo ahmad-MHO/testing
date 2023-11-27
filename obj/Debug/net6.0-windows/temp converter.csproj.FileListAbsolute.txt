@@ -1,0 +1,19 @@
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp_converter.Form1.resources
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.csproj.GenerateResource.cache
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.AssemblyInfoInputs.cache
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.AssemblyInfo.cs
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.csproj.CoreCompileInputs.cache
+D:\c# project\temp converter\bin\Debug\net6.0-windows\temp converter.exe
+D:\c# project\temp converter\bin\Debug\net6.0-windows\temp converter.deps.json
+D:\c# project\temp converter\bin\Debug\net6.0-windows\temp converter.runtimeconfig.json
+D:\c# project\temp converter\bin\Debug\net6.0-windows\temp converter.dll
+D:\c# project\temp converter\bin\Debug\net6.0-windows\temp converter.pdb
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.dll
+D:\c# project\temp converter\obj\Debug\net6.0-windows\refint\temp converter.dll
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.pdb
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp converter.genruntimeconfig.cache
+D:\c# project\temp converter\obj\Debug\net6.0-windows\ref\temp converter.dll
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp_converter.Form2.resources
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp_converter.calculator.resources
+D:\c# project\temp converter\obj\Debug\net6.0-windows\temp_converter.to_do_list.resources
